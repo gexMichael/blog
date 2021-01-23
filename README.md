@@ -6,6 +6,7 @@
 * [以資料庫為開發核心](https://ithelp.ithome.com.tw/users/20111421/ironman/1615 )
 #### 資料庫相關
 * 玩轉 SQL
+* [玩轉 SQL 的SQL範例](https://github.com/gexMichael/Play-Learn-SQL )
 #### 工具類
 * [Markdown 語法說明](http://markdown.tw/)
 #### 練習用
