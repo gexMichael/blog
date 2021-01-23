@@ -12,3 +12,4 @@
 * [好站集結](/myfavor/website.md)
 * See my [About](/hp/test.md) page for details. 
 
+![Alt text](/images/happy-new-year.jpg)
