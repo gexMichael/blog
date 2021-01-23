@@ -7,8 +7,6 @@
 #### 資料庫相關
 * [玩轉 SQL](/playSQL/category.md )
 * [玩轉 SQL 的SQL Script 範例](https://github.com/gexMichael/Play-Learn-SQL )
-#### 工具類
-* [Markdown 語法說明](http://markdown.tw/)
 
 #### 其他
 * [好站集結](/myfavor/website.md)
