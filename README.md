@@ -9,6 +9,6 @@
 * [玩轉 SQL 的SQL Script 範例](https://github.com/gexMichael/Play-Learn-SQL )
 #### 工具類
 * [Markdown 語法說明](http://markdown.tw/)
-#### 練習用
+#### 其他
 * See my [About](/hp/test.md) page for details. 
 
