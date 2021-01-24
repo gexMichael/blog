@@ -1,8 +1,8 @@
 ### MySQL error code SQLSTATE code Error message
 
-1011 HY000 Error on delete of '%s' (errno: %d)
-1021 HY000 Disk full (%s); waiting for someone to free some space . . .
-1022 23000 Can't write; duplicate key in table '%s'
+* 1011 HY000 Error on delete of '%s' (errno: %d)
+* 1021 HY000 Disk full (%s); waiting for someone to free some space . . .
+* 1022 23000 Can't write; duplicate key in table '%s'
 1027 HY000 '%s' is locked against change
 1036 HY000 Table '%s' is read only
 1048 23000 Column '%s' cannot be null
