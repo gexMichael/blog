@@ -1,4 +1,4 @@
-##@ MySQL error code SQLSTATE code Error message
+### MySQL error code SQLSTATE code Error message
 
 1011 HY000 Error on delete of '%s' (errno: %d)
 1021 HY000 Disk full (%s); waiting for someone to free some space . . .
