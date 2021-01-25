@@ -8,6 +8,9 @@
 * [玩轉 SQL](/playSQL/category.md )
 * [玩轉 SQL 的SQL Script 範例](https://github.com/gexMichael/Play-Learn-SQL )
 
+#### 奇思妙想
+* [關於新創的一些想法](/Thinking/start-up.md )
+ 
 #### 其他
 * [好站集結](/myfavor/website.md)
 * See my [About](/hp/test.md) page for details. 
