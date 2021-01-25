@@ -20,5 +20,4 @@
 
 #### 行業別的雲端解決方案 
 * 社區管理系統
-  * 雲管家
-http://www.56168.com.tw/product.html
+  * 雲管家 http://www.56168.com.tw/product.html
