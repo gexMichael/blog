@@ -21,4 +21,4 @@
 
 #### 工具類
 * [Markdown 語法說明](http://markdown.tw/)
-* [gitBook 說明](https://medium.com/itsoktomakemistakes/%E8%87%AA%E6%9E%B6-gitbook-%E6%95%99%E5%AD%B8-639118adea15)
+* [自架 Gitbook 教學](https://medium.com/itsoktomakemistakes/%E8%87%AA%E6%9E%B6-gitbook-%E6%95%99%E5%AD%B8-639118adea15)
