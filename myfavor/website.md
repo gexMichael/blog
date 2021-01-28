@@ -24,4 +24,6 @@
 * [自架 Gitbook 教學](https://medium.com/itsoktomakemistakes/%E8%87%AA%E6%9E%B6-gitbook-%E6%95%99%E5%AD%B8-639118adea15)
 * [Git達人教你搞懂GitHub基礎觀念](https://www.ithome.com.tw/news/95283)
 * [HackMD 使用教學](https://hackmd.io/c/tutorials-tw/%2Fs%2Fquick-start-tw)
-* [Canva 教學1](https://learningisf.com/canva-tutorial/) [Canva 教學2](https://blog.sharktech.tw/2018/11/23/canva-graphic-design)
+* [Canva 官網](https://www.canva.com/) 
+  * [Canva 教學1](https://learningisf.com/canva-tutorial/) 
+  * [Canva 教學2](https://blog.sharktech.tw/2018/11/23/canva-graphic-design)
