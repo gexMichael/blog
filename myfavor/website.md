@@ -16,6 +16,7 @@
 *	[易百教程](https://www.yiibai.com/html/database/)
 *	[W3Schools](https://www.w3schools.com/sql/)
 *	[極客教程](https://geek-docs.com/sql/sql-examples/sql-retrieves-all-rows-and-columns.html)
+* [SQL從入門到精通](https://gitbook.cn/gitchat/column/5dae96ec669f843a1a4aed95)
 
 #### 英文學習
 
