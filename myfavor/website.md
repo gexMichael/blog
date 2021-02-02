@@ -20,6 +20,11 @@
 
 #### 英文學習
 
+#### 電子書相關
+* [ISBN申請說明](https://www.gov.tw/news3_content.aspx?n=2&sms=9037&s=326699)
+* [國家童書館 fb](https://www.facebook.com/ncl.tw/posts/982034218508167/)
+* [電子書版權頁宣告範例](http://ebook.ncl.edu.tw/webpac/msg/06.pdf)
+
 #### 工具類
 * [Markdown 語法說明](http://markdown.tw/)
 * [自架 Gitbook 教學](https://medium.com/itsoktomakemistakes/%E8%87%AA%E6%9E%B6-gitbook-%E6%95%99%E5%AD%B8-639118adea15)
