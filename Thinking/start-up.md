@@ -24,3 +24,6 @@
 #### 行業別的雲端解決方案 
 * 社區管理系統
   * 雲管家 http://www.56168.com.tw/product.html
+
+#### 參考好文
+* [thenextweb.com](https://thenextweb.com/entrepreneur/2014/10/23/side-projects-saved-our-startup/1/)
