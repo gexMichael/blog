@@ -24,6 +24,25 @@
 #### 行業別的雲端解決方案 
 * 社區管理系統
   * 雲管家 http://www.56168.com.tw/product.html
+  
+#### 賣書搭配工具
+* Windows ERP(gex) 如何開創市場?
+  * 免費下載使用(官網要重新整理並上線 www.gex.com.tw)，附安裝說明，手冊另行購買。
+  * 收費方式：
+    * 使用手冊=?99(電子書)
+    * 維護合約(年)
+    * 計次服務(上課)
+* 賣書搭配工具
+  * 買 [玩轉SQL] 加購+?99 送 ORM程式
+  * 買 [ERP開發勝經] 加購+??99 送 Wizard 程式
+* 加購工具類(工具若要服務或說明，請購買顧問時數)
+  * ORM
+  * Wizard
+  * Node.js 後台
+  * 薪資計算Tools
+  * WorkFlow
+  * SAP 報表產生器(含 Delphi7 Source)
+  * 其他繼續思考中(可以多寫一些小工具或程式) ==> 可以試著由ERP系統拆出小模組(Thinking)
 
 #### 參考好文
 * [thenextweb.com](https://thenextweb.com/entrepreneur/2014/10/23/side-projects-saved-our-startup/1/)
