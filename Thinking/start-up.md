@@ -44,6 +44,8 @@
   * SAP 報表產生器(含 Delphi7 Source)
   * RWD 網站模板
   * 其他繼續思考中(可以多寫一些小工具或程式) ==> 可以試著由ERP系統拆出小模組(Thinking)
+* 付款方式
+  * 加入[蝦皮賣家](https://agirls.aotter.net/post/54780)，利用電商平台處理金流及發票事宜(個人賣家)
 
 #### 參考好文
 * [thenextweb.com](https://thenextweb.com/entrepreneur/2014/10/23/side-projects-saved-our-startup/1/)
