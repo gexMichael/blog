@@ -38,6 +38,7 @@
   * 買 [ERP開發勝經] 加購+??99 送 Wizard 程式(或 WinERP ...)
 * 加購工具類(工具若要服務或說明，請購買顧問時數)
   * ORM
+  * Security(Permissions) 標準機制含 Tables
   * Wizard
   * Node.js 後台
   * 薪資計算Tools
