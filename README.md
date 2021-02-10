@@ -12,6 +12,7 @@
 
 #### 奇思妙想
 * [關於新創的一些想法](/Thinking/start-up.md )
+* [電子書衍伸的商模](/Thinking/business_module.md)
  
 #### 其他
 * [好站集結](/myfavor/website.md)
