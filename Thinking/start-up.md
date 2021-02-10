@@ -30,6 +30,7 @@
   * [免費的開源軟體到底怎麼賺錢？](https://www.juduo.cc/tech/458802.html)
   * [開源軟體的商業模式分析 (二)](https://www.bnext.com.tw/article/52848/open-source--business-model-2)
   * [為什麼「開源」是新世界的創業方式？](http://goodwork.hfcc.com.tw/356132611838678303402603221109269893693921205/why-startup-open-source)
+  * [在開源時代的興起下，如何透過License共享並保有權益](https://progressbar.tw/posts/61)
 * Windows ERP(gex) 如何開創市場? ==> 證明不是空口說白話，也一併樹立標竿
   * 免費下載使用([官網](http://www.gex.com.tw) 要重新整理並上線)，附安裝說明，手冊另行購買。
   * 收費方式：
