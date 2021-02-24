@@ -1,4 +1,6 @@
 ## 這是 Michael 的 blog，記錄一些心得及雜想
+![Alt text](/images/logo.png)
+
 #### 占卜及八字
 * [捷克仕移動](http://www.gex.com.tw/)
 * [萬事如易](http://fate.gex.com.tw/ "最好用的占卜及八字網站")
