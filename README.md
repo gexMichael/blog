@@ -8,9 +8,11 @@
 #### 程式開發
 * [以資料庫為開發核心](https://ithelp.ithome.com.tw/users/20111421/ironman/1615 )
 
-#### 資料庫相關
-* [玩轉 SQL](/playSQL/category.md )
-* [玩轉 SQL 的SQL Script 範例](https://github.com/gexMichael/Play-Learn-SQL )
+#### 電子書出版相關
+* [ERP開發勝經](https://www.pubu.com.tw/ebook/224761)
+* [玩轉SQL](https://www.pubu.com.tw/ebook/224773)
+* [玩轉SQL 的SQL Script 範例](https://github.com/gexMichael/Play-Learn-SQL )
+* [SAP學習心得筆記](/playSQL/learn_sap.md )
 
 #### 奇思妙想
 * [關於新創的一些想法](/Thinking/start-up.md )
