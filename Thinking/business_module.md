@@ -7,6 +7,8 @@
 
 #### Win/Web ERP 系統行銷方式
 * [一本新书如何在网络上推广？](https://www.zhihu.com/question/36315986)
+* [新書如何網路營銷推廣？](https://zi.media/@yidianzixun/post/Y9RnyM)
+* [自媒体时代，作者如何出版并宣传推广自己的新书](http://bbs.tianya.cn/post-476-26285-1.shtml)
 * 軟體系統不收費，但是服務有價(手冊+顧問時數)
 * Windows ERP(gex) 如何開創市場? ==> 證明不是空口說白話，也一併樹立標竿
   * 免費下載使用([官網](http://www.gex.com.tw) 要重新整理並上線)，附安裝說明，手冊另行購買。
