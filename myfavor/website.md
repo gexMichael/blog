@@ -37,3 +37,6 @@
 #### 新創相關資源
 * [台北市產業發展獎勵](https://www.industry-incentive.taipei/page_result.aspx)
 * [台科大創新育成](https://www.bic.ntust.edu.tw/)
+
+#### 其他雜七雜八
+* [淘寶代付](https://taogo.pixnet.net/blog/post/280929808)
