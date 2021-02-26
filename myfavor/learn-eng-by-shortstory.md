@@ -4,7 +4,7 @@
 * 不求多，指選取自己有興趣的文章
 * 主要目的當然是學習
 
-####　Book I
+#### Book I
 * [別再苦苦經營粉絲團！Side project 在三個月內救了我的新創公司(English)](https://buzzorange.com/techorange/2014/11/04/side-projects-saved-our-startup/)
 * [別再苦苦經營粉絲團！Side project 在三個月內救了我的新創公司](https://buzzorange.com/techorange/2014/11/04/side-projects-saved-our-startup/)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
