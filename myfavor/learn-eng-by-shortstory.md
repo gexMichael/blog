@@ -9,3 +9,7 @@
 * [別再苦苦經營粉絲團！Side project 在三個月內救了我的新創公司](https://buzzorange.com/techorange/2014/11/04/side-projects-saved-our-startup/)
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 * [在 2016 年學 JavaScript 是一種什麼樣的體驗](https://kknews.cc/tech/zl9q93.html)
+
+
+#### 中文好文
+* [19 歲澳洲女孩，如何從校刊設計開始，打造價值 60 億美元的新創獨角獸 Canva？](https://buzzorange.com/techorange/2021/01/27/canva-australian-unicorn-story-melanie-perkins/)
