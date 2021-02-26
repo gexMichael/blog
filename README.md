@@ -13,7 +13,7 @@
 * [玩轉SQL](https://www.pubu.com.tw/ebook/224773)
 * [玩轉SQL 的SQL Script 範例](https://github.com/gexMichael/Play-Learn-SQL )
 * [SAP學習心得筆記](/playSQL/learn_sap.md )
-* [短篇英文好文集錦](/playSQL/learn_sap.md )
+* [短篇英文好文集錦](/myfavor/learn-eng-by-shortstory.md )
 
 #### 奇思妙想
 * [關於新創的一些想法](/Thinking/start-up.md )
