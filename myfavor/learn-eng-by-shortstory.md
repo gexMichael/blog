@@ -1,3 +1,11 @@
 ## Learn English By Interesting short story from Internet
+#### Tips
+* 每一篇文章最好都有中英文
+* 不求多，指選取自己有興趣的文章
+* 主要目的當然是學習
+
+####　Book I
+* [別再苦苦經營粉絲團！Side project 在三個月內救了我的新創公司(English)](https://buzzorange.com/techorange/2014/11/04/side-projects-saved-our-startup/)
 * [別再苦苦經營粉絲團！Side project 在三個月內救了我的新創公司](https://buzzorange.com/techorange/2014/11/04/side-projects-saved-our-startup/)
-* []()
+* [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+* [在 2016 年學 JavaScript 是一種什麼樣的體驗](https://kknews.cc/tech/zl9q93.html)
