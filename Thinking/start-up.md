@@ -1,4 +1,5 @@
 ## 紀錄一些目前看起來是異想天開的想法
+* [互聯網的商業模式](../images/ibm.png)
 #### 資料庫虛擬化技術
 * 建立一個通用GateWay, 讓現有的程式可以任意切換不同的 Database
 
@@ -31,3 +32,4 @@
 #### 參考好文
 * [How side projects saved our startup(thenextweb.com)](https://thenextweb.com/entrepreneur/2014/10/23/side-projects-saved-our-startup/1/)
 * [台灣新創9傑——這些準獨角獸們](https://www.bnext.com.tw/article/60107/kneron-2020-special)
+
