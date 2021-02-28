@@ -10,7 +10,7 @@
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 * [在 2016 年學 JavaScript 是一種什麼樣的體驗](https://kknews.cc/tech/zl9q93.html)
 * [The day I became a millionaire](https://m.signalvnoise.com/the-day-i-became-a-millionaire/)
-* [Ruby on Rails 發明人的告白：賣掉股票、變身百萬富翁的那天，我得到了什麼呢？(https://www.inside.com.tw/article/5437-ruby-on-rails-inventer-what-i-have-learn-when-the-day-i-became-a-millionaire)
+* [Ruby on Rails 發明人的告白：賣掉股票、變身百萬富翁的那天，我得到了什麼呢？](https://www.inside.com.tw/article/5437-ruby-on-rails-inventer-what-i-have-learn-when-the-day-i-became-a-millionaire)
 
 
 #### 中文好文
