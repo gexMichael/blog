@@ -12,6 +12,7 @@
 * [The day I became a millionaire](https://m.signalvnoise.com/the-day-i-became-a-millionaire/)
 * [Ruby on Rails 發明人的告白：賣掉股票、變身百萬富翁的那天，我得到了什麼呢？](https://www.inside.com.tw/article/5437-ruby-on-rails-inventer-what-i-have-learn-when-the-day-i-became-a-millionaire)
 * [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.d7jdbvdn3)
+* [一窩蜂驅動開發](Hype-Driven-Development.md)
 
 
 #### 中文好文
