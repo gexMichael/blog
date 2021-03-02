@@ -34,3 +34,7 @@
 * [How side projects saved our startup(thenextweb.com)](https://thenextweb.com/entrepreneur/2014/10/23/side-projects-saved-our-startup/1/)
 * [台灣新創9傑——這些準獨角獸們](https://www.bnext.com.tw/article/60107/kneron-2020-special)
 * [林鑫个人博客](https://github.com/lin-xin/blog/)
+
+#### 命理
+* [最古老的新行業──科技算命(上)](https://tw.news.yahoo.com/%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E6%96%B0%E8%A1%8C%E6%A5%AD-%E7%A7%91%E6%8A%80%E7%AE%97%E5%91%BD-%E4%B8%8A-054243607.html)
+* [最古老的新行業──科技算命(下)](https://tw.news.yahoo.com/%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E6%96%B0%E8%A1%8C%E6%A5%AD-%E7%A7%91%E6%8A%80%E7%AE%97%E5%91%BD-%E4%B8%8B-054243390.html)
