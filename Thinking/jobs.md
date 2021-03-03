@@ -8,3 +8,5 @@
 * [如何在 Batch 檔取得系統的日期、時間欄位 (第三版)](https://blog.miniasp.com/post/2009/11/03/How-to-get-system-date-time-in-batch-file-part-III)
 * 將資料先寫道日結或月結檔，然後再寫一支 Table 自動轉 Excel 並上傳到 ftp 的 Delphi 程式(或 c#)
 * [SQL Server的匯入匯出](https://mitblog.pixnet.net/blog/post/43849056)
+* https://github.com/sergio-hcsoft/Delphi-SpreadSheets
+* https://www.codeqq.com/log/Nzqd2nMv.html
