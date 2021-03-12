@@ -13,7 +13,8 @@
 * [Ruby on Rails 發明人的告白：賣掉股票、變身百萬富翁的那天，我得到了什麼呢？](https://www.inside.com.tw/article/5437-ruby-on-rails-inventer-what-i-have-learn-when-the-day-i-became-a-millionaire)
 * [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.d7jdbvdn3)
 * [一窩蜂驅動開發](Hype-Driven-Development.md)
-
+* [Your busy daily routine is healthy and productive. It might also be killing your creativity](https://www.inc.com/jessica-stillman/steve-jobs-albert-einstein-steven-kotler-non-time.html)
+* [一直工作會變腦殘！愛因斯坦、賈伯斯都用「non-time」重新活化大腦](https://buzzorange.com/techorange/2021/03/11/non-time/)
 
 #### 中文好文
 * [19 歲澳洲女孩，如何從校刊設計開始，打造價值 60 億美元的新創獨角獸 Canva？](https://buzzorange.com/techorange/2021/01/27/canva-australian-unicorn-story-melanie-perkins/)
