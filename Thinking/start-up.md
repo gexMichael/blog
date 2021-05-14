@@ -37,6 +37,8 @@
 * 社區管理系統
   * 雲管家 http://www.56168.com.tw/product.html
 * http://www.eztool.com.tw/index.aspx
+* Office Tools
+  * https://buzzorange.com/techorange/2021/05/13/envoy-founder-ceo-larry-gadea/
 
 #### 參考好文
 * [How side projects saved our startup(thenextweb.com)](https://thenextweb.com/entrepreneur/2014/10/23/side-projects-saved-our-startup/1/)
