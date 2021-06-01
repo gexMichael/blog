@@ -8,7 +8,7 @@
 * 
 ## AUI
 * [AUI gitHub](https://github.com/liulangnan/aui)
-* [AUI 官方文檔]https://www.w3cschool.cn/parstl/kgsa6ozt.html
+* [AUI 官方文檔](https://www.w3cschool.cn/parstl/kgsa6ozt.html)
 
 ### UX/UI Tools
 * https://photoshop.adobe.com/
