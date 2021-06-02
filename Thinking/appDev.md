@@ -11,7 +11,9 @@
   * https://www.laozuo.org/4631.html
   * [VIP](https://www.lanka.cn/tablecss_3966.html)
 ```
-<!--<div id="app">
+<link rel="stylesheet" type="text/css" href="../../css/zen.css" />
+
+    <div id="app">
         <table class="zen-table">
             <thead>
                 <th>醫師</th>
@@ -26,7 +28,7 @@
                 </tr>
             </tbody>
         </table>
-    </div>-->
+    </div>
 ```
 
 ### AUI
