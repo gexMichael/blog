@@ -5,6 +5,9 @@
 * [基于APICloud的混合应用开发框架](https://refined-x.com/2017/06/26/%E5%9F%BA%E4%BA%8EAPICloud%E7%9A%84%E6%B7%B7%E5%90%88%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6/)
 * [apicloud 常用方法有哪些？](https://zhuanlan.zhihu.com/p/190009467)
 * [Apicloud 底部导航实现](https://blog.csdn.net/qq_26282869/article/details/88320314)
+* APICloud如何把数据库中的表数据循环遍历显示在html页面上
+  * https://blog.csdn.net/qq_37591637/article/details/88387927
+  * https://ithelp.ithome.com.tw/articles/10219629
 
 ### AUI
 * [AUI gitHub](https://github.com/liulangnan/aui)
