@@ -9,7 +9,7 @@
   * https://blog.csdn.net/qq_37591637/article/details/88387927
   * https://ithelp.ithome.com.tw/articles/10219629
   * https://www.laozuo.org/4631.html
-  * https://www.lanka.cn/tablecss_3966.html
+  * [VIP](https://www.lanka.cn/tablecss_3966.html)
 
 ### AUI
 * [AUI gitHub](https://github.com/liulangnan/aui)
