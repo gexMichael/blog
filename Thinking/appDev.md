@@ -10,6 +10,24 @@
   * https://ithelp.ithome.com.tw/articles/10219629
   * https://www.laozuo.org/4631.html
   * [VIP](https://www.lanka.cn/tablecss_3966.html)
+```
+<!--<div id="app">
+        <table class="zen-table">
+            <thead>
+                <th>醫師</th>
+                <th>診數</th>
+                <th>O'P</th>
+            </thead>
+            <tbody>
+                <tr v-for="(item, key) in list" :key="key">
+                    <td>{{ item.NICKNAME }}</td>
+                    <td>{{ item.RECNO }}</td>
+                    <td>{{ item.OP6 }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>-->
+```
 
 ### AUI
 * [AUI gitHub](https://github.com/liulangnan/aui)
