@@ -35,6 +35,9 @@
   * [Canva 教學2](https://blog.sharktech.tw/2018/11/23/canva-graphic-design)
 * [PageGuide](https://github.com/tracelytics/pageguide)
 * [Draw-io](https://draw-io.en.softonic.com/)
+* [Cloud Tools 介紹](https://termsoup.com/blog/article/best-remote-work-software-collection?locale=zh-TW)
+* [Notion 介紹](https://leadingmrk.com/the-most-complete-guide-to-notion/)
+* [Taskade 介紹](https://www.youtube.com/watch?v=gjPh4TgXoZE)
 
 #### 新創相關資源
 * [台北市產業發展獎勵](https://www.industry-incentive.taipei/page_result.aspx)
