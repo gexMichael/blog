@@ -34,6 +34,7 @@
 ### AUI
 * [AUI gitHub](https://github.com/liulangnan/aui)
 * [AUI 官方文檔](https://www.w3cschool.cn/parstl/kgsa6ozt.html)
+* [AUI 非官方但完整的文檔 V2.1]http://aui.ea55.com/
 
 ### UX/UI Tools
 * [圓圖線上工具](https://crop-circle.imageonline.co/cn/#circlecropresult)
