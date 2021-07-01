@@ -1,5 +1,5 @@
 ## 這是 Michael 的 blog，記錄一些心得及雜想
-![Alt text](/images/logo.png)
+![Alt text](/Home/images/logo.png)
 
 #### 占卜及八字
 * [捷克仕移動](http://www.gex.com.tw/)
@@ -12,8 +12,8 @@
 * [ERP開發勝經](https://www.pubu.com.tw/ebook/224761)
 * [玩轉SQL](https://www.pubu.com.tw/ebook/224773)
 * [玩轉SQL 的SQL Script 範例](https://github.com/gexMichael/Play-Learn-SQL )
-* [SAP學習心得筆記](/playSQL/learn_sap.md )
-* [短篇英文好文集錦](/myfavor/learn-eng-by-shortstory.md )
+* [SAP學習心得筆記](/Home/playSQL/learn_sap.md )
+* [短篇英文好文集錦](/Home/myfavor/learn-eng-by-shortstory.md )
 
 #### 奇思妙想
 * [關於新創的一些想法](/Home/Thinking/start-up.md)
@@ -22,6 +22,5 @@
  
 #### 其他
 * [好站集結](/Home/myfavor/website.md)
-* See my [About](/hp/test.md) page for details. 
 
-![Alt text](/images/happy-new-year.jpg)
+![Alt text](/Home/images/happy-new-year.jpg)
