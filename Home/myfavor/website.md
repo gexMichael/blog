@@ -1,4 +1,6 @@
 #### 程式開發
+* [Google Developer](https://play.google.com/console/u/0/developers/5288524482781336384/app-list)
+* [APICloud 官網](https://www.apicloud.com/signin)
 
 #### 資料庫管理
 *	[楓花雪岳](http://jengting.blogspot.com/2012/07/beyond-relational-tsql-challenge.html)
@@ -38,6 +40,12 @@
 * [Cloud Tools 介紹](https://termsoup.com/blog/article/best-remote-work-software-collection?locale=zh-TW)
 * [Notion 介紹](https://leadingmrk.com/the-most-complete-guide-to-notion/)
 * [Taskade 介紹](https://www.youtube.com/watch?v=gjPh4TgXoZE)
+* [guid gen](https://www.guidgenerator.com/online-guid-generator.aspx)
+
+#### UX/UI 類工具
+* [格式轉換超厲害](https://tableconvert.com/)
+* [Tinypng](https://tinypng.com/)
+* [去背](https://www.remove.bg/)
 
 #### 新創相關資源
 * [台北市產業發展獎勵](https://www.industry-incentive.taipei/page_result.aspx)
