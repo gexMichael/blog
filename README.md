@@ -16,7 +16,7 @@
 * [短篇英文好文集錦](/myfavor/learn-eng-by-shortstory.md )
 
 #### 奇思妙想
-* [關於新創的一些想法](/Home/Thinking/start-up.md )
+* [關於新創的一些想法](/Home/Thinking/start-up.md)
 * [電子書衍伸的商模](/Home/Thinking/business_module.md)
 * [SME新創的思考](/Home/Thinking/sme.md)
  
