@@ -16,12 +16,12 @@
 * [短篇英文好文集錦](/myfavor/learn-eng-by-shortstory.md )
 
 #### 奇思妙想
-* [關於新創的一些想法](/Thinking/start-up.md )
-* [電子書衍伸的商模](/Thinking/business_module.md)
-* [SME新創的思考](/Thinking/sme.md)
+* [關於新創的一些想法](/Home/Thinking/start-up.md )
+* [電子書衍伸的商模](/Home/Thinking/business_module.md)
+* [SME新創的思考](/Home/Thinking/sme.md)
  
 #### 其他
-* [好站集結](/myfavor/website.md)
+* [好站集結](/Home/myfavor/website.md)
 * See my [About](/hp/test.md) page for details. 
 
 ![Alt text](/images/happy-new-year.jpg)
