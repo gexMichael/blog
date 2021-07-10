@@ -22,6 +22,10 @@
 
 #### 英文學習
 
+#### 電子書下載
+* [英文書庫](http://libgen.rs/search.php?req=one+minute&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+* [中英文電子書](https://z-lib.org/)
+
 #### 電子書相關
 * [ISBN申請說明](https://www.gov.tw/news3_content.aspx?n=2&sms=9037&s=326699)
 * [國家童書館 fb](https://www.facebook.com/ncl.tw/posts/982034218508167/)
@@ -41,6 +45,8 @@
 * [Notion 介紹](https://leadingmrk.com/the-most-complete-guide-to-notion/)
 * [Taskade 介紹](https://www.youtube.com/watch?v=gjPh4TgXoZE)
 * [guid gen](https://www.guidgenerator.com/online-guid-generator.aspx)
+* [YouTube 下載](http://kej.tw/flvretriever/)
+* [影片下載]()
 
 #### UX/UI 類工具
 * [格式轉換超厲害](https://tableconvert.com/)
