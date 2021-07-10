@@ -47,6 +47,7 @@
 * [Taskade 介紹](https://www.youtube.com/watch?v=gjPh4TgXoZE)
 * [guid gen](https://www.guidgenerator.com/online-guid-generator.aspx)
 * [YouTube 下載](http://kej.tw/flvretriever/)
+* [Jable 網站影片下載教學](https://bearteach.com/bearman/5223)
 
 #### UX/UI 類工具
 * [格式轉換超厲害](https://tableconvert.com/)
