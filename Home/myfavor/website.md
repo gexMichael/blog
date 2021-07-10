@@ -30,6 +30,7 @@
 * [ISBN申請說明](https://www.gov.tw/news3_content.aspx?n=2&sms=9037&s=326699)
 * [國家童書館 fb](https://www.facebook.com/ncl.tw/posts/982034218508167/)
 * [電子書版權頁宣告範例](http://ebook.ncl.edu.tw/webpac/msg/06.pdf)
+* [epub-to-mobi](https://www.cleverpdf.com/zh-tw/epub-to-mobi)
 
 #### 工具類
 * [Markdown 語法說明](http://markdown.tw/)
@@ -46,12 +47,15 @@
 * [Taskade 介紹](https://www.youtube.com/watch?v=gjPh4TgXoZE)
 * [guid gen](https://www.guidgenerator.com/online-guid-generator.aspx)
 * [YouTube 下載](http://kej.tw/flvretriever/)
-* [影片下載]()
 
 #### UX/UI 類工具
 * [格式轉換超厲害](https://tableconvert.com/)
 * [Tinypng](https://tinypng.com/)
 * [去背](https://www.remove.bg/)
+
+#### APP 行銷參考
+* [辛苦做的 APP 卻沒人用？數位行銷專家解析四大關鍵：市場、對手、預算、社群](https://www.marketersgo.com/marketing-strategies-tactics/201901/mk1-app/)
+* [App開發推廣要怎麼做？這四點要先熟悉](https://meet.bnext.com.tw/articles/view/44319)
 
 #### 新創相關資源
 * [台北市產業發展獎勵](https://www.industry-incentive.taipei/page_result.aspx)
