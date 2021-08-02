@@ -1,7 +1,7 @@
 ### Node.js Samples
 * https://www.sitepoint.com/using-node-mysql-javascript-client/
-```
-  const con = mysql.createConnection({
+```markdown
+const con = mysql.createConnection({
   host: 'localhost',
   user: 'user',
   password: 'password',
