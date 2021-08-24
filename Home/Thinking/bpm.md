@@ -9,3 +9,4 @@
   * [bpmn-js + vue实现工作流设计器](https://www.cxyzjd.com/article/juny0302/105739542)
   * [FlowEngine-Git](https://gitee.com/explore/workflow?page=3)
 * [camunda BPM Engine](https://camunda.com/products/camunda-platform/bpmn-engine/)
+* [盘古BPM工作流平台](https://gitee.com/pangu-dm/pangubpm-dmn#http://www.pangubpm.com/)
