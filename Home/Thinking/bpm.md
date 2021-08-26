@@ -8,5 +8,10 @@
   * [Bpmn.js 在线流程编辑器的汉化](https://juejin.cn/post/6844904105954000910)
   * [bpmn-js + vue实现工作流设计器](https://www.cxyzjd.com/article/juny0302/105739542)
   * [FlowEngine-Git](https://gitee.com/explore/workflow?page=3)
+* 進階參考
+  * [最好用的流程編輯器bpmn-js](https://iter01.com/529878.html)
+  * [Nginx+Django-Python+BPMN-JS整合工作流實戰項目](https://www.traditionalnews.today/showArticle?id=undefined&main_id=7328)
+  * [基于bpmn.js、React、Midway.js的在线审批编辑](https://www.bilibili.com/read/cv9015193)
+  * [使用bpmn-js实现activiti的流程设计器](https://griabcrh.github.io/2020/03/10/%E4%BD%BF%E7%94%A8bpmn-js%E5%AE%9E%E7%8E%B0activiti%E7%9A%84%E6%B5%81%E7%A8%8B%E8%AE%BE%E8%AE%A1%E5%99%A8/)
 * [camunda BPM Engine](https://camunda.com/products/camunda-platform/bpmn-engine/)
 * [盘古BPM工作流平台](https://gitee.com/pangu-dm/pangubpm-dmn#http://www.pangubpm.com/)
