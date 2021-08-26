@@ -24,6 +24,7 @@
 * [camunda BPM Engine](https://camunda.com/products/camunda-platform/bpmn-engine/)
   * https://github.com/winily/bpmn-demo
   * https://github-dotcom.gateway.web.tr/Yiuman/bpmn-vue-activiti
+  * https://www.icode9.com/content-4-1032684.html
 * [盘古BPM工作流平台](https://gitee.com/pangu-dm/pangubpm-dmn#http://www.pangubpm.com/)
 * [NodeJS工作流引擎](https://cabloy.com/zh-cn/articles/flow-introduce.html#_26)
 * 从 SQL 驱动的设计角度看，审批流，工作流的本质即数据库中的一张表中的一条记录
