@@ -22,8 +22,11 @@
   * [sunFlow基于是基于camunda开发的工作流web系统](https://gitee.com/cangjingge/sunFlow)
   * [Camunda工作流引擎](https://blog.csdn.net/qq_42758551/article/details/107192376#act_hi_comment__356)
 * [camunda BPM Engine](https://camunda.com/products/camunda-platform/bpmn-engine/)
+  * https://github.com/winily/bpmn-demo
 * [盘古BPM工作流平台](https://gitee.com/pangu-dm/pangubpm-dmn#http://www.pangubpm.com/)
 * [NodeJS工作流引擎](https://cabloy.com/zh-cn/articles/flow-introduce.html#_26)
 * 从 SQL 驱动的设计角度看，审批流，工作流的本质即数据库中的一张表中的一条记录
   * https://forum.enhancer.io/topic/5ad714f8ce69735af635fcd4)
   * https://forum.enhancer.io/plate/qa/topic/5d6895d64646de62f17d21bb
+* LoginFlow
+  * http://logic-flow.org/
