@@ -27,6 +27,7 @@
   * https://www.icode9.com/content-4-1032684.html
   * https://www.bilibili.com/video/BV1yo4y1C7yP/?spm_id_from=333.788.recommend_more_video.1
 * [盘古BPM工作流平台](https://gitee.com/pangu-dm/pangubpm-dmn#http://www.pangubpm.com/)
+  * https://ke.qq.com/course/2963796?taid=10169619271465300
 * [NodeJS工作流引擎](https://cabloy.com/zh-cn/articles/flow-introduce.html#_26)
 * 从 SQL 驱动的设计角度看，审批流，工作流的本质即数据库中的一张表中的一条记录
   * https://forum.enhancer.io/topic/5ad714f8ce69735af635fcd4)
