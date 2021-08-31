@@ -84,4 +84,4 @@
   - [ ] 如果來得及，應於生日當天上架(千萬不要勉強)
 
 #### 相關附件
-![Alt text](../images/eep-licence-agree.PNG)
+![Alt text](../../images/eep-licence-agree.PNG)
