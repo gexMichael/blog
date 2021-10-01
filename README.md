@@ -25,7 +25,8 @@
 * [如何才能写出简洁好看的API文档，有没有开源框架可以用？](https://www.zhihu.com/question/29037581)
 * [支持markdown的博客平台有哪些？](https://www.zhihu.com/question/21172379)
 * [Hackmd 安裝 & 基本設定](https://faqbook.net/hackmd-install-setup)
-
+* [在VSCode中高效编辑markdown的正确方式](https://www.thisfaner.com/p/edit-markdown-efficiently-in-vscode/)
+* 
 #### 其他
 * [好站集結](/Home/myfavor/website.md)
 
