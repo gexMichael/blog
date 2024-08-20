@@ -12,7 +12,7 @@
 * 讓 admin 可以直接改 json 程式(目前是唯讀)
 ```
   alter table sys_users add admin_user char(1);
-  "disabledOn": "${ls:admin_user != 'Y'}",~~
+  "disabledOn": "${ls:admin_user != 'Y'}",
 ```
 
 ### 持續完善 M-D
