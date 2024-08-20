@@ -121,10 +121,10 @@
 調整為全 Open Source + 僅收取培訓費用及顧問輔導費, 重點轉為立言, 順帶賺點生活費吧
 * a.系統
   - (1)amis APP (最好也能提供 Linux Solution)
-  - (2)Redash or metabase (BI)
-  - (3)ReportServer (Query Report)
-  - (4)Open Project (PMS) 或是 Redmind
-  - (5)Odoo ERP (or ERPNext)
+  - (2)ERPNext (or Odoo ERP)
+  - (3)Redash or metabase (BI)
+  - ~~(4)ReportServer (Query Report)~~
+  - (5)Open Project (PMS) 或是 Redmind
 * b.教材
   - (1)使用手冊整理
   - (2)教學說明影片
