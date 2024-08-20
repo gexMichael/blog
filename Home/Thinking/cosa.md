@@ -112,7 +112,7 @@
   
 # Commercial Opensource Software Alliance (COSA) 
 * 柯薩：商用開源軟體聯盟，原本隨便想的名字，竟然已經存在多年
-  - 中華民國開放系統協會 https://www.cosa.org.tw
+* [中華民國開放系統協會](https://www.cosa.org.tw/)
 * 加入協會，借助協會的力量推廣，這個是否有可行性 ?
 * 盡量讓更多的中間商加入，擴大市場，但是這個真不容易
   - 能接受以服務為主要收入
