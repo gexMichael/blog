@@ -111,18 +111,17 @@
 * 4.企業方案：包輔導上線(依個案)
   
 # Commercial Opensource Software Alliance (COSA) 
-* 柯薩：商用開源軟體聯盟
+* 柯薩：商用開源軟體聯盟，原本隨便想的名字，竟然已經存在多年
+  - 中華民國開放系統協會 https://www.cosa.org.tw
+* 加入協會，借助協會的力量推廣，這個是否有可行性 ?
 * 盡量讓更多的中間商加入，擴大市場，但是這個真不容易
-
-### 能接受以服務為主要收入
-* ~~uuid template 還差 orm 最後一段, 將 _x 的資料寫到 _d, 並刪除 _x (取消此作法)~~
-* 考慮 Open Project、Redash(metabase) 等其他  OpenSource 專案是否也一併掛入
+  - 能接受以服務為主要收入
 
 ### 多花心思將企業會經常使用的 Open Source 專案整合打包為一個解決方案(加上我自己的 amis 解決方案)
 調整為全 Open Source + 僅收取培訓費用及顧問輔導費, 重點轉為立言, 順帶賺點生活費吧
 * a.系統
   - (1)amis APP (最好也能提供 Linux Solution)
-  - (2)Redash (BI)
+  - (2)Redash or metabase (BI)
   - (3)ReportServer (Query Report)
   - (4)Open Project (PMS) 或是 Redmind
   - (5)Odoo ERP (or ERPNext)
